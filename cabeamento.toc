@@ -1,0 +1,22 @@
+\select@language {brazilian}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{4}
+\contentsline {subsection}{\numberline {1.1}Benef\IeC {\'\i }cios}{4}
+\contentsline {section}{\numberline {2}Estado atual}{4}
+\contentsline {section}{\numberline {3}Usu\IeC {\'a}rios e aplicativos}{5}
+\contentsline {subsection}{\numberline {3.1}Usu\IeC {\'a}rios}{5}
+\contentsline {subsection}{\numberline {3.2}Aplicativos}{6}
+\contentsline {section}{\numberline {4}Estrutura do pr\IeC {\'e}dio principal}{7}
+\contentsline {section}{\numberline {5}Planta L\IeC {\'o}gica}{7}
+\contentsline {subsection}{\numberline {5.1}Estado atual}{9}
+\contentsline {subsection}{\numberline {5.2}Topologia}{11}
+\contentsline {subsection}{\numberline {5.3}Encaminhamento}{15}
+\contentsline {subsection}{\numberline {5.4}Invent\IeC {\'a}rio de passivos}{15}
+\contentsline {subsubsection}{\numberline {5.4.1}Se\IeC {\c c}\IeC {\~a}o de inform\IeC {\'a}tica}{15}
+\contentsline {subsubsection}{\numberline {5.4.2}Complementar da rede}{16}
+\contentsline {subsection}{\numberline {5.5}Identifica\IeC {\c c}\IeC {\~a}o dos cabos}{17}
+\contentsline {section}{\numberline {6}Cronograma de implanta\IeC {\c c}\IeC {\~a}o}{17}
+\contentsline {section}{\numberline {7}Plano de certifica\IeC {\c c}\IeC {\~a}o}{19}
+\contentsline {section}{\numberline {8}Plano de manuten\IeC {\c c}\IeC {\~a}o}{19}
+\contentsline {subsection}{\numberline {8.1}Plano de expans\IeC {\~a}o}{19}
+\contentsline {section}{\numberline {9}Or\IeC {\c c}amento}{20}
+\contentsline {section}{\numberline {10}Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}{22}

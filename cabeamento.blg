@@ -1,0 +1,19 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: cabeamento.aux
+The style file: ieeetr.bst
+Database file #1: referencia.bib
+Warning--string name "amgh" is undefined
+--line 4 of file referencia.bib
+I was expecting a `,' or a `}'---line 4 of file referencia.bib
+ :  publisher = amgh 
+ :                   Editora Ltda,
+I'm skipping whatever remains of this entry
+Warning--string name "bookman" is undefined
+--line 11 of file referencia.bib
+I was expecting a `,' or a `}'---line 13 of file referencia.bib
+ :  edition = 6
+ :             ª edição
+I'm skipping whatever remains of this entry
+Warning--empty publisher in fourozan10
+Warning--empty year in fourozan10
+Warning--empty publisher in comer
+(There were 2 error messages)
